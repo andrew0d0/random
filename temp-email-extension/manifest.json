@@ -1,0 +1,13 @@
+{
+  "manifest_version": 3,
+  "name": "Temp Email Viewer",
+  "version": "1.0",
+  "description": "View and refresh your temp email inbox.",
+  "permissions": ["storage"],
+  "action": {
+    "default_popup": "popup.html",
+    "default_icon": {
+      "16": "icon.png"
+    }
+  }
+}
